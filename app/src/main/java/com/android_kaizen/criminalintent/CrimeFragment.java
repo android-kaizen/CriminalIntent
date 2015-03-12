@@ -16,6 +16,10 @@ import android.widget.Toast;
 
 import com.android_kaizen.criminalintent.model.Crime;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 /**
  * Created by Andy on 11-Mar-15.
  */
@@ -77,4 +81,6 @@ public class CrimeFragment extends Fragment {
 
         return view;
     }
+
+
 }
