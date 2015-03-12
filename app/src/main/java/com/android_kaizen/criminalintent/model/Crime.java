@@ -13,7 +13,7 @@ public class Crime {
 
     private Date mDate;
     private boolean mSolved;
-
+    private String mBla;
 
 
     public Crime() {
