@@ -1,4 +1,4 @@
-package com.android_kaizen.criminalintent;
+package com.android_kaizen.criminalintent.fragment;
 
 import android.app.Fragment;
 import android.os.Bundle;
@@ -14,6 +14,7 @@ import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.android_kaizen.criminalintent.R;
 import com.android_kaizen.criminalintent.model.Crime;
 
 import java.text.ParseException;
